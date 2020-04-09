@@ -1,4 +1,4 @@
-#### Redis基本介绍
+##### Redis基本介绍
 
 > Remote Dictionary Server 高性能key-value数据库，支持BSD协议
 
@@ -224,7 +224,7 @@ Redis底层是使用`QuickList`保存，相当于`Java`中的`LinkedList`,每个
 
 #### Redis分片(Cluster)
 
-![image-20200402164755059](/Users/yangf/Personal/Note/image-20200402164755059.png)
+![image-20200402164755059](/Users/yangf/Personal/Note/Resources/image-20200402164755059.png)
 
 
 

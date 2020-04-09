@@ -1,9 +1,10 @@
 #### 1.Servlet是什么
+
 运行在Web服务器或应用服务器上的程序，作为来自Web浏览器或其他HTTP客户端的请求和HTTP服务器上的数据库或应用程序之间的中间层。
 **CGI** common gateway interface 公共网关接口
 
 #### 2.架构
-![9cc24e089078786be72da16b1e68147d](Servlet.resources/E20F81C7-43F3-45A7-B1D9-5D0ABA6E3C96.png)
+![image-20200409152101288](/Users/yangf/Personal/Note/Resources/image-20200409152101288.png)
 
 
 ### 3.ServletConfig

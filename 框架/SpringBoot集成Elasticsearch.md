@@ -101,7 +101,7 @@ output {
 
 - `input`表示输入的数据来源，可以是`file`、`jdbc`、`http`、`kafka`、`log4j`、`redis`等很多途径（具体可以查看
 
-[官网]:https://www.elastic.co/guide/en/logstash/current/input-plugins.html）。
+[官网](https://www.elastic.co/guide/en/logstash/current/input-plugins.html)）。
 
 - `filter`主要是对数据来源进行过滤，转换成`json`格式，然后保存到`Elasticsearch`中。`filter`里面有很多的插件，具体官网有详细的介绍，本次教程主要使用到`Aggregate`聚合数据。
 

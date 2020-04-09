@@ -27,7 +27,7 @@ zookeeper的数据模型类似于文件系统，每一个节点称为ZNode，每
 
 ##### 节点存储信息 get stat
 
--![image-20200327111635367](/Users/yangf/Personal/Note/image-20200327111635367.png)
+-![image-20200327111635367](/Users/yangf/Personal/Note/Resources/image-20200327111635367.png)
 
 
 

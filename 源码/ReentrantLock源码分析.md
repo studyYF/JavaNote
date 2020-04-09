@@ -8,7 +8,7 @@
 
 **2.相关类图**
 
-![image-20200311232229619](Resources/image-20200311232229619.png)
+![image-20200311232229619](/Users/yangf/Personal/Note/Resources/image-20200311232229619.png)
 
 #### 简单使用
 

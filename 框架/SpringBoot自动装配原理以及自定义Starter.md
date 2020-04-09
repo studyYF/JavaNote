@@ -165,7 +165,7 @@ protected AutoConfigurationEntry getAutoConfigurationEntry(AutoConfigurationMeta
 
 用`IDEA`创建一个简单的`Maven`项目，然后创建相应的包名和类。
 
-![image-20200326133419432](/Users/yangf/Personal/Note/image-20200326133419432.png)
+![image-20200326133419432](/Users/yangf/Personal/Note/Resources/image-20200326133419432.png)
 
 
 
